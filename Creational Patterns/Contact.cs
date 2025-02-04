@@ -18,7 +18,7 @@ namespace Creational_Patterns
 
         public void AddEmail(string email)
         {
-            Properties["Email"] = email;
+            Properties["Email1"] = email;
         }
         public void AddBirthday(string birthday)
         {
