@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational Patterns", "Creational Patterns\Creational Patterns.csproj", "{75EA701F-2EC5-40DA-8A93-9B41B5DDCABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75EA701F-2EC5-40DA-8A93-9B41B5DDCABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EA701F-2EC5-40DA-8A93-9B41B5DDCABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EA701F-2EC5-40DA-8A93-9B41B5DDCABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EA701F-2EC5-40DA-8A93-9B41B5DDCABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C3DFF11-B98C-452B-B162-5F3ED0E4CA4C}
+	EndGlobalSection
+EndGlobal
